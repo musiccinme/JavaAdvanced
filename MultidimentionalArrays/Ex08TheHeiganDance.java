@@ -1,5 +1,3 @@
-//ДА СЕ РЕШИ ОТНОВО!!!!!!!!!!
-
 package MultidimentionalArrays;
 
 import java.util.Scanner;
