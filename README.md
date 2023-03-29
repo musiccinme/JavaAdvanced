@@ -1,2 +1,3 @@
 # JavaAdvanced
-My homeworks and exam from the first module of the SoftUni course called "Java Advanced"
+
+In the course "Java Advanced" the students learn to create linear data structures, solve algorithmic problems, work with streams, files and directories, create template classes.
